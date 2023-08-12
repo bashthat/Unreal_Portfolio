@@ -1,4 +1,12 @@
 # Unreal_Portfolio
+
+https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/Mobile/Android/DistributionSigning/
+
+https://aj-21683.medium.com/tips-and-tricks-for-oculus-quest-development-with-unreal-engine-4-25-3-6d5cac7f3e19
+
+https://docs.unrealengine.com/5.2/en-US/how-to-set-up-android-sdk-and-ndk-for-your-unreal-engine-development-environment/
+
+
 This is a Portfolio of projects I'm developing as I learn the Unreal Engine!
 
 first setup I've been through is with Android. Our AR project was a real challenge to develop an AR game in the Unity Engine. As I learn more about AR and VR, along side the use of production studios having an Unreal Engine set-up as their well known "Secret", I decided to switch platforms. It's in C++, a change from C# as far as languages go. But also the Use of the platform is similar but a bit more systematic to development while comparing Unity to Unreal.
