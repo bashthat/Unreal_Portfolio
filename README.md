@@ -5,8 +5,8 @@
 https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
 https://knowledge.informatica.com/s/article/467339?language=en_US
 command for the JDK keytool for SSL enviornment to develop for Google from Unrea
-keytool -genkey -alias "myDomain" -keyalg RSA -keystore KeyStore.jks -keysize 2048
-
+# keytool -genkey -alias "myDomain" -keyalg RSA -keystore KeyStore.jks -keysize 2048
+# ovr-platform-util upload-quest-build — app_id “Insert APP ID Here” -s “Insert API Token Here” — apk E:\FromLightPackage\AppLab_ALPHA1\Android_ASTC\Fromlight-Android-Shipping-arm64.apk — obb E:\FromLightPackage\AppLab_ALPHA1\Android_ASTC\main.com.FromLight.FromLight.obb -c ALPHA
 https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/Mobile/Android/DistributionSigning/
 
 https://aj-21683.medium.com/tips-and-tricks-for-oculus-quest-development-with-unreal-engine-4-25-3-6d5cac7f3e19
