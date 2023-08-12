@@ -2,6 +2,7 @@
 # openjdk.org
 # https://developer.android.com/games/engines/unreal
 # https://www.digitalocean.com/community/tutorials/java-keytool-essentials-working-with-java-keystores
+https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
 https://knowledge.informatica.com/s/article/467339?language=en_US
 command for the JDK keytool for SSL enviornment to develop for Google from Unrea
 keytool -genkey -alias "myDomain" -keyalg RSA -keystore KeyStore.jks -keysize 2048
