@@ -1,5 +1,8 @@
 # Unreal_Portfolio
 
+command for the JDK keytool for SSL enviornment to develop for Google from Unrea
+keytool -genkey -alias "myDomain" -keyalg RSA -keystore KeyStore.jks -keysize 2048
+
 https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/Mobile/Android/DistributionSigning/
 
 https://aj-21683.medium.com/tips-and-tricks-for-oculus-quest-development-with-unreal-engine-4-25-3-6d5cac7f3e19
